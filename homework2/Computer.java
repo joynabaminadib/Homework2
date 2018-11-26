@@ -39,6 +39,7 @@ public class Computer {
 		this.windows = windows;
 		this.price = price;
 	}
+	//non-static method #3
    public void Configuration() {
 	   System.out.println("Configuration: "+windows+" "+price);
 	   
